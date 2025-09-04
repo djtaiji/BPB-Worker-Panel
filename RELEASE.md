@@ -1,4 +1,5 @@
 # ⚙️ Bug fixes and Improvements
 
-- Fixed Warp PRO subscription #895.
-- Updated docs.
+- Fixed missing IPv6 configs #1000
+- Fixed WorkerLess malfunctioning with Fake DNS enabled
+- Refactored
